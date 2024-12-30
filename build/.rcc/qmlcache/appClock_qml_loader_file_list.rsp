@@ -1,0 +1,5 @@
+--resource
+D:/src/Small/Clock/build/.qt/rcc/qmake_Clock.qrc
+--resource
+D:/src/Small/Clock/build/.qt/rcc/appClock_raw_qml_0.qrc
+/Clock/Main.qml

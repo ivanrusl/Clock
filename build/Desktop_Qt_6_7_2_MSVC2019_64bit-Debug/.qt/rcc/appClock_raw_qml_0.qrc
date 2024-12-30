@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/Clock/">
+    <file alias="Main.qml">G:/src/Small/Clock/Clock/Main.qml</file>
+    <file alias="background.png">G:/src/Small/Clock/Clock/background.png</file>
+    <file alias="largeArm.png">G:/src/Small/Clock/Clock/largeArm.png</file>
+    <file alias="smallArm.png">G:/src/Small/Clock/Clock/smallArm.png</file>
+  </qresource>
+</RCC>
+

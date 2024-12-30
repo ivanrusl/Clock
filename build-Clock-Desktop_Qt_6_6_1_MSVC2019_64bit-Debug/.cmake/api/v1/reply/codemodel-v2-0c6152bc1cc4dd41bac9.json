@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ed89a829fb389496c7c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Clock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-02169ceba2e16742f8ba.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bceaa1ede0bb5c945d11.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-dcca3155cdf27db2ee6a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-80c0ea2fa784f5d16201.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock-Debug-70d5e07fcc27bbf3ca49.json",
+					"name" : "appClock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_autogen-Debug-91aa54dfe8966f92e0d3.json",
+					"name" : "appClock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_autogen_timestamp_deps-Debug-0a4c719405a9993408da.json",
+					"name" : "appClock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_qmlimportscan-Debug-f46367918bc0a55ed4a8.json",
+					"name" : "appClock_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_qmllint-Debug-5eafa4ed324c9d27a64f.json",
+					"name" : "appClock_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_qmllint_json-Debug-e43561539915e671c5db.json",
+					"name" : "appClock_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_qmllint_module-Debug-eb6d7d6852582e442d04.json",
+					"name" : "appClock_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_qmltyperegistration-Debug-999b2f93f03b2970483b.json",
+					"name" : "appClock_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appClock_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appClock_tooling-Debug-c1378e7b4edaaaf65e62.json",
+					"name" : "appClock_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug",
+		"source" : "E:/Ruslan/Coding/Qt/Projects/Clock/Clock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

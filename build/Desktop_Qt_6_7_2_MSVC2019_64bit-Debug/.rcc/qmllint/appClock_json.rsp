@@ -1,0 +1,12 @@
+--bare
+-I
+G:/src/Small/Clock/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug
+-I
+C:/Qt/6.7.2/msvc2019_64/./qml
+--resource
+G:/src/Small/Clock/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/qmake_Clock.qrc
+--resource
+G:/src/Small/Clock/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/.qt/rcc/appClock_raw_qml_0.qrc
+G:/src/Small/Clock/Clock/Main.qml
+--json
+G:/src/Small/Clock/build/Desktop_Qt_6_7_2_MSVC2019_64bit-Debug/appClock_qmllint.json

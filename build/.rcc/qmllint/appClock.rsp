@@ -1,0 +1,10 @@
+--bare
+-I
+D:/src/Small/Clock/build
+-I
+C:/Qt/6.7.2/msvc2019_64/./qml
+--resource
+D:/src/Small/Clock/build/.qt/rcc/qmake_Clock.qrc
+--resource
+D:/src/Small/Clock/build/.qt/rcc/appClock_raw_qml_0.qrc
+D:/src/Small/Clock/Clock/Main.qml

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Clock">
+    <file alias="qmldir">D:/src/Small/Clock/build/Clock/qmldir</file>
+  </qresource>
+</RCC>
+

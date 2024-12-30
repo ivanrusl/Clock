@@ -1,0 +1,14 @@
+-rootPath
+D:/src/Small/Clock/Clock
+-cmake-output
+-output-file
+D:/src/Small/Clock/build/.qt/qml_imports/appClock_build.cmake
+-importPath
+D:/src/Small/Clock/build/Clock
+-importPath
+D:/src/Small/Clock/build
+-importPath
+C:/Qt/6.7.2/msvc2019_64/./qml
+-qrcFiles
+D:/src/Small/Clock/build/.qt/rcc/qmake_Clock.qrc
+D:/src/Small/Clock/build/.qt/rcc/appClock_raw_qml_0.qrc

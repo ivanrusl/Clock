@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Clock">
+    <file alias="qmldir">E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Clock/qmldir</file>
+  </qresource>
+</RCC>
+

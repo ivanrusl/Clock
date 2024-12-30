@@ -1,0 +1,14 @@
+-rootPath
+E:/Ruslan/Coding/Qt/Projects/Clock/Clock
+-cmake-output
+-output-file
+E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appClock.cmake
+-importPath
+E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/Clock
+-importPath
+E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.6.1/msvc2019_64/./qml
+-qrcFiles
+E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.rcc/qmake_Clock.qrc
+E:/Ruslan/Coding/Qt/Projects/Clock/build-Clock-Desktop_Qt_6_6_1_MSVC2019_64bit-Debug/.rcc/appClock_raw_qml_0.qrc
